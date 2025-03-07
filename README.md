@@ -3,7 +3,7 @@ Extensión de Chrome AI Multichat
 
 Política de Privacidad - AI Multichat
 
-Última actualización: [Fecha]
+Última actualización: 7 marzo 2025
 
 Gracias por utilizar AI Multichat. Nos tomamos muy en serio la privacidad de los usuarios y queremos ser transparentes sobre la información que recopilamos y cómo la utilizamos.
 
@@ -33,4 +33,4 @@ Nos reservamos el derecho de actualizar esta política de privacidad en cualquie
 
 6. Contacto
 
-Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en [Tu correo o sitio web].
+Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en jose.caracci@gmail.com.
