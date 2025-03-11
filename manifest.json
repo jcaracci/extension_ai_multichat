@@ -3,7 +3,6 @@
   "name": "Dual AI Query",
   "version": "1.0",
   "description": "Haz preguntas a ChatGPT y Grok en dos ventanas",
-  "permissions": ["tabs"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
